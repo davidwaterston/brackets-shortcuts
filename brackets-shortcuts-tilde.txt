@@ -1,0 +1,81 @@
+Toggle sidebar~Command-Shift-H
+Minimize Brackets~Command-M
+New file~Command-N
+Open file~Command-O
+Open folder~Command-Option-O
+Close file~Command-W
+Close all files~Command-Shift-W
+Quick open~Command-Shift-O
+Go to line~Command-L
+Quick find definition~Command-T
+Jump to definition~Command-J
+Goto first problem~Command-`
+Next file~Command-Shift-]
+Previous file~Command-Shift-[
+Toggle quick edit~Command-E
+Previous match~Option-Up Arrow
+Next match~Option-Down Arrow
+New rule~Command-Option-N
+Goto file start~Command-Fn-Left Arrow
+Goto file end~Command-Fn-Right Arrow
+Page up~Fn-Up Arrow
+Page down~Fn-Down Arrow
+Find in file~Command-F
+Find in project~Command-Shift-F
+Find next~Command-G
+Find previous~Command-Shift-G
+Find all and select~Command-Control-G
+Add next match to selection~Command-B
+Skip and add next match to selection~Command-Shift-B
+Replace~Command-Option-F
+Replace in project~Command-Option-Shift-F
+Collapse all~Option-1
+Expand all~Option-Shift-1
+Collapse current~Command-Option-[
+Expand current~Command-Option-]
+Copy~Command-C
+Cut~Command-X
+Paste~Command-V
+Undo~Command-Z
+Redo~Command-Shift-Z
+Indent current line or selection~Command-]
+Outdent current line or selection~Command-[
+Insert newline after current line or selection~Command-Return
+Insert newline before current line or selection~Command-Shift-Return
+Delete current line or selection~Control-Shift-D
+Delete to line start~Command-Backspace
+Delete to line end~Command-Delete
+Move current line or selection up~Command-Control-Up Arrow
+Move current line or selection down~Command-Control-Down Arrow
+Duplicate current line or selection~Command-D
+Split selection into lines~Command-Option-L
+Toggle line comment~Command-/
+Toggle block comment~Command-Option-/
+Transpose characters either side of the cursor~Control-T
+Delete text to beginning of word~Option-Backspace
+Delete text to end of word~Option-Delete
+Add cursor to next line~Option-Shift-Down Arrow
+Add cursor to previous line~Option-Shift-Up Arrow
+Select all~Command-A
+Select current line~Control-L
+Select to beginning of word~Option-Shift-Left Arrow
+Select to end of word~Option-Shift-Right Arrow
+Select to first character of line~Command-Shift-Left Arrow
+Select to last character of line~Command-Shift-Right Arrow
+Select to beginning of file~Command-Shift-Up Arrow
+Select to end of file~Command-Shift-Down Arrow
+Undo selection~Command-U
+Redo selection~Command-Shift-U
+Show code hints~Control-Space
+Show parameter hint~Control-Shift-Space
+Enable Live Preview~Command-Option-P
+Toggle Live Preview Highlight~Command-Shift-C
+Force reload of Live Preview~Command-Shift-R
+Show developer tools~Command-Option-I
+Reload with extensions~Command-R
+Reload without extensions~Command-Control-R
+Help~F1
+Rename file~F2
+Increase font size~Command-Plus sign (+)
+Decrease font size~Command-Minus sign (-)
+Restore font size to default~Command-0
