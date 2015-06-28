@@ -1,6 +1,6 @@
 ## brackets-shortcuts
 
-[![Semantic Versioning](https://img.shields.io/badge/semver-1.0.0-lightgrey.svg)](http://semver.org)
+[![Semantic Versioning](https://img.shields.io/badge/semver-1.1.0-lightgrey.svg)](http://semver.org)
 [![MIT Licence](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/davidwaterston/brackets-shortcuts/blob/master/LICENSE)
 [![Releases signed with Gnu Privacy Guard](https://img.shields.io/badge/gpg-signed-green.svg)](#verifying-releases)
 [![Stories in Progress](https://badge.waffle.io/davidwaterston/brackets-shortcuts.svg?label=in%20progress&title=In Progress)](http://waffle.io/davidwaterston/brackets-shortcuts)
