@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 
+
+## [1.2.0] - 2015-06-19
+
+### Changed
+- Replace the hardcoded 'semver' version badge at the top of the README.md with a dynamic version which picks up the version from GitHub. No more forgetting to update the badge on a new release.
+
+
 ## [1.1.0] - 2015-06-28
 
 ### Added
